@@ -1,3 +1,3 @@
-# hafizaOyunu
+# MemoryCard
 
 İnternet Teknolojileri Ödev
